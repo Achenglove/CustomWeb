@@ -1,0 +1,4 @@
+rootProject.name = "CustomWeb"
+include ':app'
+include ':agentweb-filechooser'
+include ':agentweb-core'
